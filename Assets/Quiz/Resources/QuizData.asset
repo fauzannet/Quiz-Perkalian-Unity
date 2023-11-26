@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: QuizData
+  m_EditorClassIdentifier: 
+  categoryName: Mulai
+  questions:
+  - questionInfo: 2 X 4
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 8
+    - 12
+    - 28
+    - 16
+    correctAns: 8
+  - questionInfo: 5 X 6
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 35
+    - 55
+    - 20
+    - 30
+    correctAns: 30
+  - questionInfo: 7 X 1
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 21
+    - 35
+    - 7
+    - 14
+    correctAns: 7
+  - questionInfo: 9 X 7
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 58
+    - 63
+    - 62
+    - 56
+    correctAns: 63
+  - questionInfo: 3 X 4
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 10
+    - 15
+    - 12
+    - 20
+    correctAns: 12
+  - questionInfo: 8 X 9
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 72
+    - 61
+    - 62
+    - 71
+    correctAns: 72
+  - questionInfo: 6 X 3
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 19
+    - 18
+    - 16
+    - 15
+    correctAns: 18
+  - questionInfo: 4 X 5
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 20
+    - 15
+    - 25
+    - 10
+    correctAns: 20
+  - questionInfo: 3 X 7
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 28
+    - 17
+    - 14
+    - 21
+    correctAns: 21
+  - questionInfo: 5 X 5
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 25
+    - 20
+    - 30
+    - 35
+    correctAns: 25
